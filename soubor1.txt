@@ -5,3 +5,5 @@ a taky chci tady neco napsat, ty jo nechci!!!!
 Ahoj
 jak se dnes masoja dnes delam git
 a githbu neni to same jako git
+
+chci zmenu
