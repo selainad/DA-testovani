@@ -13,12 +13,12 @@
  */
 console.log("Ukol 1a) funkce bez parametru");
 
-function predstaveni(){
+function predstaveni1(){
     console.log("Ahoj jmeno je Tina. Jak se mas?")
 }
-predstaveni();
-predstaveni();
-predstaveni();
+predstaveni1();
+predstaveni1();
+predstaveni1();
 
 
 /**
