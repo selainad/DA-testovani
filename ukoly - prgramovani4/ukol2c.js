@@ -15,6 +15,7 @@ function magicFunction(){
     return array;
 }
 
+
 let pole = magicFunction();
 console.log(pole);
 
