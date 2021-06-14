@@ -48,7 +48,7 @@ console.log("d) posledni prvek je: " + numbers[numbers.length-1]);
 
 //e) nejvetsi cislo, (obtiznost 2)
 let cislo;
-let = max = numbers[0];
+let max = numbers[0];
 
 for(let i = 0; i < numbers.length; i++){
     cislo = numbers[i];
